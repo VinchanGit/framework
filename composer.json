@@ -14,10 +14,6 @@
         }
     },
     "authors": [
-        {
-            "name": "Vinchan",
-            "email": "ademo@vip.qq.com"
-        }
     ],
     "require": {
         "nikic/fast-route":"^1.3",
